@@ -1,0 +1,4 @@
+    - name: {placeholder}
+    run: |
+      {first command}
+      {second command}
